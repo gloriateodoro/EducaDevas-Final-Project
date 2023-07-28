@@ -1,0 +1,14 @@
+// settings.json
+{
+  "tailwindCSS.experimental.classRegex": [
+    "className=['\"]([^'\"]*)",
+    "tw=['\"]([^'\"]*)",
+    "tw-s=['\"]([^'\"]*)",
+    "tw-e=['\"]([^'\"]*)"
+  ],
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "javascript",
+    "plaintext": "typescript",
+    "plaintext": "typescriptreact"
+  }
+}
