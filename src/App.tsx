@@ -6,9 +6,11 @@ function App() {
   return (
     <>
       <Header />
-      <div className="mx-56 my-10">
-
-        <h1 className="mb-4">Confira as mulheres que participaram do Educa&#123;Devas&#125; e seus respectivos hobbies:</h1>
+      <div className="ml-56 mt-2">
+        <img src="src/assets/photos/repro-4.png" alt=""  />
+        </div>
+      <div className="mx-56 my-4">
+        <h1 className="mb-4">Confira os rostinhos e os hobbies das mulheres que estão reprogramando o mundo na primeira turma do <strong>Educa&#123;Devas&#125;</strong>:</h1>
 
         <StudentCard nome="Nathalia Caldas (Facilitadora)" hobby="Brincar/Passear com meu filho" fotoUrl="src/assets/photos/Nathalia_Caldas.jpeg" />
 
